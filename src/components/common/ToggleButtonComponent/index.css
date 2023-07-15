@@ -1,0 +1,66 @@
+.toggle-button-container {
+  display: flex;
+  align-items: center;
+  margin: 0 16px;
+}
+
+.label {
+  margin-right: 8px;
+}
+
+button {
+  background-color: lightgray;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 20px;
+  position: relative;
+  width: 36px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+button:hover {
+  background-color: lightgray;
+}
+button:focus,
+button:active {
+  outline: none;
+}
+button::-moz-focus-inner {
+  border: 0;
+}
+
+.pin {
+  border: 2px solid #d4d5d9;
+  background-color: white;
+  border-radius: 4px;
+  height: 15px;
+  left: 2px;
+  position: absolute;
+  bottom: 1px;
+  width: 15px;
+  transition: left ease 0.5s;
+}
+
+.fill {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 2px;
+  left: 3px;
+}
+
+button.on.veg {
+  background-color: green;
+}
+
+button.on.veg .pin {
+  left: 15px;
+  border: 2px solid green;
+}
+button.on.veg .fill {
+  background-color: green;
+  border-radius: 50%;
+  position: absolute;
+}

@@ -1,0 +1,25 @@
+/* Style the list */
+.breadcrumb ul {
+  padding: 10px 16px;
+  list-style: none;
+}
+
+/* Display list items side by side */
+.breadcrumb ul li {
+  display: inline;
+  font-size: 10px;
+}
+
+.breadcrumb ul li a {
+  color: #93959f;
+}
+
+.breadcrumb ul li:last-child a {
+  color: #282c3f;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+.breadcrumb ul li + li:before {
+  padding: 8px;
+  content: "/\00a0";
+}

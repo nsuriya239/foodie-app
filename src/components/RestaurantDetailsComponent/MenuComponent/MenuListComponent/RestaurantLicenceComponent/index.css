@@ -1,0 +1,16 @@
+.restaurant-licence-info{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 50px;
+    background-color: #f1f1f6;
+    font-size: 1rem;
+    color: #93959f;
+    border-bottom: 1px solid;
+}
+
+.restaurant-licence-info img{
+    height: 30px;
+    width: 60px;
+    margin-right: 16px;
+}

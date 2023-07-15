@@ -1,0 +1,10 @@
+.offerTag {
+  padding: 2px 5px 2px 4px;
+  font-size: 0.7rem;
+  line-height: 1.1;
+  border-left-width: 1px;
+  border-left-style: solid;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+}

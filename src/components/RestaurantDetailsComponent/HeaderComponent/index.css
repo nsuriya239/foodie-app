@@ -1,0 +1,26 @@
+.restaurant-header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 16px;
+}
+
+.restaurant-header-container hr {
+  border: none;
+  border-bottom: 1px dashed #d3d3d3;
+}
+
+.restaurant-surge-info {
+  display: flex;
+  align-items: center;
+  margin: 0 16px;
+}
+
+.restaurant-surge-info img {
+  margin-right: 8px;
+  height: 18px;
+  width: 18px;
+}
+
+.restaurant-surge-info p {
+  color: #7e808c;
+}

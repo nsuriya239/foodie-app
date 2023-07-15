@@ -1,0 +1,17 @@
+.veg-badge-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid green;
+  height: 20px;
+  width: 20px;
+  margin-right: 8px;
+}
+
+.circle {
+  position: absolute;
+  background-color: green;
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+}

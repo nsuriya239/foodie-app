@@ -1,0 +1,63 @@
+.restaurant-offer-container {
+  display: flex;
+  padding: 8px;
+  height: 100%;
+  min-width: 200px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-right: 12px;
+  height: auto;
+}
+
+.restaurant-offer-card {
+  display: flex;
+  border: 1px solid #e9e9eb;
+  box-sizing: border-box;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  border-radius: 8px;
+  padding: 8px;
+  height: 100px;
+  align-items: center;
+  margin-right: 8px;
+}
+
+.offer-tag {
+  font-weight: 600;
+  font-size: 0.7rem;
+  -ms-writing-mode: tb-lr;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  padding-left: 4px;
+  text-align: center;
+  border-left: 1px solid #e9e9eb;
+}
+
+.restaurant-offer-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.restaurant-offer-header img {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+.restaurant-offer-header p {
+  font-size: 1.07rem;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #686b78;
+}
+
+.restaurant-offer-info p {
+  font-size: 0.86rem;
+  color: #93959f;
+  margin-top: 4px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 200px;
+  font-weight: 700;
+}

@@ -1,0 +1,19 @@
+.veg-only-badge {
+  display: flex;
+  align-items: center;
+  color: #535665;
+  margin: 0 16px;
+}
+
+.veg-only-badge img {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+.style-divider {
+  border-bottom: 0.5px solid #d3d3d3;
+  height: 0.5px;
+  margin: 24px auto;
+  width: calc(100% - 32px);
+}

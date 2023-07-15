@@ -1,0 +1,18 @@
+.carousel-wrapper{
+    display: flex;
+    margin-bottom: 12px;
+    -ms-scroll-snap-type: x mandatory;
+    scroll-snap-type: x mandatory;
+    scroll-padding-left: 25px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.carousel-card{
+    padding-right: 25px;
+}
+
+.carousel-card img{
+    height: 475px;
+}

@@ -1,0 +1,1618 @@
+{
+  "title": "SEE ALL",
+  "totalOpenRestaurants": 210,
+  "cards": [
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "26963",
+        "name": "Shri Anandhaas Veg",
+        "uuid": "9be566d7-10e7-4fb8-a6c5-4770ce2ae31c",
+        "city": "8",
+        "area": "Pallikaranai",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "wmstulbnn8zoswub996q",
+        "cuisines": ["North Indian", "Chinese", "Italian", "Indian", "South Indian"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 21,
+        "minDeliveryTime": 21,
+        "maxDeliveryTime": 21,
+        "slaString": "21 MINS",
+        "lastMileTravel": 0.8999999761581421,
+        "slugs": {
+          "restaurant": "shri-anandhaas-veg-narayanapuram-medavakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "283, Velachery Main Rd, Narayanapuram, Pallikaranai, Tamil Nadu 600100",
+        "locality": "Narayanapuram",
+        "parentId": 11940,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 2600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 2600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "2600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=6986433~p=7~eid=00000188-b7ed-1050-02f4-474500d3077a",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "0.8 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "26963",
+          "deliveryTime": 21,
+          "minDeliveryTime": 21,
+          "maxDeliveryTime": 21,
+          "lastMileTravel": 0.8999999761581421,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.2",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "331405",
+        "name": "Sangeetha Veg Restaurant",
+        "uuid": "a969f2e5-fbc1-4fdf-9d1e-c38c0fc152f5",
+        "city": "8",
+        "area": "Kovilambakkam",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "byyvwwxwtzymkhzoobzr",
+        "cuisines": ["South Indian", "Chinese"],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 19,
+        "minDeliveryTime": 19,
+        "maxDeliveryTime": 19,
+        "slaString": "19 MINS",
+        "lastMileTravel": 2.700000047683716,
+        "slugs": {
+          "restaurant": "sangeetha-express-medavakkam-medavakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "No 1/423 , 200 Feet Radial Road , Periyakovilambakkam , Chennai 600129",
+        "locality": "Medavakkam",
+        "parentId": 1260,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 2600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 2600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "2600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.7 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "331405",
+          "deliveryTime": 19,
+          "minDeliveryTime": 19,
+          "maxDeliveryTime": 19,
+          "lastMileTravel": 2.700000047683716,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.4",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "144583",
+        "name": "Swamy Cafe",
+        "uuid": "35e8d394-9fed-4036-8981-b8bcd77ad3a7",
+        "city": "8",
+        "area": "Adambakkam",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "qmpmqzlnx5tjok1nuzai",
+        "cuisines": ["South Indian"],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 33,
+        "minDeliveryTime": 33,
+        "maxDeliveryTime": 33,
+        "slaString": "33 MINS",
+        "lastMileTravel": 8.300000190734863,
+        "slugs": {
+          "restaurant": "swamy-cafe-adambakkam-madipakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "NO.17, NA, RAMAKRISHNA ST.,, ADAMBAKKAM, Chennai, Tamil Nadu, 600088",
+        "locality": "Ramakrishna St",
+        "parentId": 17366,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 6600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 6600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "6600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 1,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "8.3 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "144583",
+          "deliveryTime": 33,
+          "minDeliveryTime": 33,
+          "maxDeliveryTime": 33,
+          "lastMileTravel": 8.300000190734863,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "IT_IS_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.5",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "283957",
+        "name": "SREE AKSHAYAM",
+        "uuid": "15f644cf-49ca-4d8f-918d-93af95aa4d16",
+        "city": "8",
+        "area": "Velachery",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "w9ovn7yygbpmsztp1ebg",
+        "cuisines": ["Chinese", "Indian"],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 35,
+        "minDeliveryTime": 35,
+        "maxDeliveryTime": 35,
+        "slaString": "35 MINS",
+        "lastMileTravel": 5,
+        "slugs": {
+          "restaurant": "sree-akshayam-velachery-velachery",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "GRV CASTLE, OLD.NO:42, NEW.NO:356,VELACHERY MAIN ROAD,VELACHERY,CHENNAI-600042, District - Chennai, STATE - Tamil Nadu",
+        "locality": "Grv Castle",
+        "parentId": 16899,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4400,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4400,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4400",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7072233~p=4~eid=00000188-b7ed-1050-02f4-474400d3044c",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "5 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "283957",
+          "deliveryTime": 35,
+          "minDeliveryTime": 35,
+          "maxDeliveryTime": 35,
+          "lastMileTravel": 5,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "18696",
+        "name": "Namma Veedu Vasanta Bhavan",
+        "uuid": "9fcc4953-621c-44f4-b2e9-a33f2b75501f",
+        "city": "8",
+        "area": "Medavakkam",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "gtjgskqpdpchdifhh0vy",
+        "cuisines": ["South Indian"],
+        "tags": [],
+        "costForTwo": 15000,
+        "costForTwoString": "₹150 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 5.599999904632568,
+        "slugs": {
+          "restaurant": "namma-veedu-vasanta-bhavan-velachery-main-road-medavakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "5/521, Velachery Main Road, Medavakkam, Chennai",
+        "locality": "Velachery Main Road",
+        "parentId": 1263,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4400,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4400,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4400",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "5.5 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "18696",
+          "deliveryTime": 27,
+          "minDeliveryTime": 27,
+          "maxDeliveryTime": 27,
+          "lastMileTravel": 5.599999904632568,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.1",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "558031",
+        "name": "Geetham Veg restaurant",
+        "uuid": "a1165ffc-e092-4823-9c7b-78f55ab1adcb",
+        "city": "8",
+        "area": "Thuraipakkam (OMR)",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "fxoofqi1isfil8oa7ix7",
+        "cuisines": ["South Indian", "North Indian", "Sweets", "Beverages"],
+        "tags": [],
+        "costForTwo": 45000,
+        "costForTwoString": "₹450 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 4.900000095367432,
+        "slugs": {
+          "restaurant": "geetham-veg-restaurant-omr-perungudi-omr-perungudi",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "2/95B, SRI NILAYAM, OLD MAHABALIPURAM ROAD, THURAIPAKKAM, CHENNAI - 600097, TamilNadu",
+        "locality": "OMR-Perungudi",
+        "parentId": 335557,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3800,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3800,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3800",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.9 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "558031",
+          "deliveryTime": 27,
+          "minDeliveryTime": 27,
+          "maxDeliveryTime": 27,
+          "lastMileTravel": 4.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.5",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "516561",
+        "name": "Udupi Hotel Shree Durga",
+        "uuid": "eee3b1b2-914a-40c3-89c8-bc27bab5b38d",
+        "city": "8",
+        "area": "Karapakkam",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "heo4fu5ykmiyqrnx4ldf",
+        "cuisines": ["South Indian"],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 30,
+        "minDeliveryTime": 30,
+        "maxDeliveryTime": 30,
+        "slaString": "30 MINS",
+        "lastMileTravel": 8.800000190734863,
+        "slugs": {
+          "restaurant": "udupi-hotel-shree-durga-karapakkam-karapakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "Old No:2/2B, New No:1/35, Old Mahabalipuram, Karapakkam, Chennai 600097",
+        "locality": "Old Mahabalipuram",
+        "parentId": 308750,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 6600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 6600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "6600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 1,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "8.8 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "516561",
+          "deliveryTime": 30,
+          "minDeliveryTime": 30,
+          "maxDeliveryTime": 30,
+          "lastMileTravel": 8.800000190734863,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "IT_IS_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.4",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "16631",
+        "name": "Geetha Cafe",
+        "uuid": "24c4a86a-dd53-437a-8b1c-baf9797f706c",
+        "city": "8",
+        "area": "Medavakkam",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "flfvy3ngfwwcsysa71wu",
+        "cuisines": ["South Indian", "Indian", "Chettinad", "Street Food"],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 34,
+        "minDeliveryTime": 34,
+        "maxDeliveryTime": 34,
+        "slaString": "34 MINS",
+        "lastMileTravel": 5.599999904632568,
+        "slugs": {
+          "restaurant": "geetha-cafe-medavakkam-medavakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "5/534, Velachery Main Road, Medavakkam, Chennai",
+        "locality": "Velachery Main Road",
+        "parentId": 3387,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4400,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4400,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4400",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7007571~p=10~eid=00000188-b7ed-1050-02f4-474600d30a68",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "5.5 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "16631",
+          "deliveryTime": 34,
+          "minDeliveryTime": 34,
+          "maxDeliveryTime": 34,
+          "lastMileTravel": 5.599999904632568,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.0",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "13514",
+        "name": "Hotel Saravana Bhavan",
+        "uuid": "5551659b-c619-4d36-b850-8269ade8ae0c",
+        "city": "8",
+        "area": "Perungudi",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "vyhuxkghxoetbgorrzeb",
+        "cuisines": ["South Indian", "North Indian", "Sweets"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 31,
+        "minDeliveryTime": 31,
+        "maxDeliveryTime": 31,
+        "slaString": "31 MINS",
+        "lastMileTravel": 7.400000095367432,
+        "slugs": {
+          "restaurant": "hotel-sarvana-bhavan-vadapalani-vadapalani",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "No.111/141, Near Kandhanchavadi Bus Stop, OMR, Perungudi, Chennai - 600096",
+        "locality": "Near Kandhanchavadi Bus Stop",
+        "parentId": 101987,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 5600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 5600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "5600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "7.4 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "13514",
+          "deliveryTime": 31,
+          "minDeliveryTime": 31,
+          "maxDeliveryTime": 31,
+          "lastMileTravel": 7.400000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.1",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "633876",
+        "name": "Hotel Ganga",
+        "uuid": "d22bdfc8-8d10-4128-85b7-f39cf94f6a6e",
+        "city": "8",
+        "area": "Velachery",
+        "totalRatingsString": "20+ ratings",
+        "cloudinaryImageId": "kbanol3wwctu4ysxmprx",
+        "cuisines": ["South Indian", "Chinese", "Tandoor"],
+        "tags": [],
+        "costForTwo": 25000,
+        "costForTwoString": "₹250 FOR TWO",
+        "deliveryTime": 36,
+        "minDeliveryTime": 36,
+        "maxDeliveryTime": 36,
+        "slaString": "36 MINS",
+        "lastMileTravel": 4.900000095367432,
+        "slugs": {
+          "restaurant": "hotel-ganga-velachery-velachery",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "16/41, SARATHI NAGAR, VIJAYA NAGAR, VELACHERY, CHENNAI, Chennai Corp. Ward - 179, Chennai, Tamil Nadu-600042",
+        "locality": "Vijaya nagar",
+        "parentId": 7114,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3800,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3800,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3800",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7072242~p=13~eid=00000188-b7ed-1050-02f4-474700d30d65",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹100 OFF",
+          "subHeader": "ABOVE ₹299",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "633876",
+          "deliveryTime": 36,
+          "minDeliveryTime": 36,
+          "maxDeliveryTime": 36,
+          "lastMileTravel": 4.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.0",
+        "totalRatings": 20,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "211688",
+        "name": "Hotel Vasantham",
+        "uuid": "92e02e3a-8567-4325-9ca2-e9fa2f8c71a1",
+        "city": "8",
+        "area": "Nanganallur",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "h1u9ob42j1hqnbhxktwx",
+        "cuisines": ["Biryani", "Chinese", "Desserts", "South Indian"],
+        "tags": [],
+        "costForTwo": 25000,
+        "costForTwoString": "₹250 FOR TWO",
+        "deliveryTime": 34,
+        "minDeliveryTime": 34,
+        "maxDeliveryTime": 34,
+        "slaString": "34 MINS",
+        "lastMileTravel": 8.199999809265137,
+        "slugs": {
+          "restaurant": "hotel-vasantham-madipakkam-madipakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "48th Street, Nanganallur, Chennai, Tamil Nadu, India",
+        "locality": "Madipakkam",
+        "parentId": 12526,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 6600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 6600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "6600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 1,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "8.1 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "211688",
+          "deliveryTime": 34,
+          "minDeliveryTime": 34,
+          "maxDeliveryTime": 34,
+          "lastMileTravel": 8.199999809265137,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "IT_IS_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.6",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "31709",
+        "name": "A2B - Adyar Ananda Bhavan",
+        "uuid": "63676a74-3445-428c-a6fe-fc715086f6d5",
+        "city": "8",
+        "area": "Pallikaranai",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "ev5guv3zjjdecvvmwgvi",
+        "cuisines": ["South Indian", "North Indian", "Sweets", "Chinese"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 20,
+        "minDeliveryTime": 20,
+        "maxDeliveryTime": 20,
+        "slaString": "20 MINS",
+        "lastMileTravel": 2.0999999046325684,
+        "slugs": {
+          "restaurant": "a2b-veg-pallikaranai-medavakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "200 Feet Road, Pallikaranai, Chennai",
+        "locality": "200 ft Road",
+        "parentId": 22,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 2600,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 2600,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "2600",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "31709",
+          "deliveryTime": 20,
+          "minDeliveryTime": 20,
+          "maxDeliveryTime": 20,
+          "lastMileTravel": 2.0999999046325684,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "53149",
+        "name": "Hotel Ananda",
+        "uuid": "8814769b-cd48-491c-816a-e4d6f0556e45",
+        "city": "8",
+        "area": "Madipakkam",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "lt9zgdf4roldsjp18cb1",
+        "cuisines": ["South Indian", "North Indian", "Chinese"],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 30,
+        "minDeliveryTime": 30,
+        "maxDeliveryTime": 30,
+        "slaString": "30 MINS",
+        "lastMileTravel": 5.900000095367432,
+        "slugs": {
+          "restaurant": "hotel-ananda-medavakkam-main-road-madipakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "No 5 medavakkam main road moovarasampet, Madipakkam, Chennai, Tamil Nadu 600091",
+        "locality": "Moovarasampet",
+        "parentId": 16897,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4400,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4400,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4400",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=6986439~p=16~eid=00000188-b7ed-1050-02f4-474800d31045",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "5.9 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "53149",
+          "deliveryTime": 30,
+          "minDeliveryTime": 30,
+          "maxDeliveryTime": 30,
+          "lastMileTravel": 5.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "256910",
+        "name": "NAKSHATRA PURE VEG",
+        "uuid": "1c873593-d18a-4e4f-9524-1cc32139cc21",
+        "city": "8",
+        "area": "Madipakkam",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "ipjsuasggph9zabfsrlv",
+        "cuisines": ["Indian"],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 23,
+        "minDeliveryTime": 23,
+        "maxDeliveryTime": 23,
+        "slaString": "23 MINS",
+        "lastMileTravel": 3.9000000953674316,
+        "slugs": {
+          "restaurant": "nakshatra-pure-veg-medavakkam-medavakkam",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "NO 93 VELACHERY MAIN ROAD BAZAAR ROAD CHENNAI 600091",
+        "locality": "Medavakkam",
+        "parentId": 17122,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3200,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3200,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3200",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "3.9 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "256910",
+          "deliveryTime": 23,
+          "minDeliveryTime": 23,
+          "maxDeliveryTime": 23,
+          "lastMileTravel": 3.9000000953674316,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.4",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "14724",
+        "name": "Murugan Idli Shop",
+        "uuid": "aac7758a-dcdd-4e95-aa6a-48b9b5ae8948",
+        "city": "8",
+        "area": "Velachery",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "akp0eilr1oqnhhzpiqip",
+        "cuisines": ["South Indian"],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 5,
+        "slugs": {
+          "restaurant": "murugan-idli-shop-velachery-velachery",
+          "city": "chennai"
+        },
+        "cityState": "8",
+        "address": "No.129,100 Feet Bypass Road,Velachery,Chennai",
+        "locality": "100 Feet Bypass Road",
+        "parentId": 1248,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4400,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4400,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4400",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7063765~p=19~eid=00000188-b7ed-1050-02f4-474900d3133e",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "5 kms",
+        "hasSurge": false,
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "text": "BENEFITS",
+            "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "exclusiveOfferMessage": ""
+        },
+        "sla": {
+          "restaurantId": "14724",
+          "deliveryTime": 27,
+          "minDeliveryTime": 27,
+          "maxDeliveryTime": 27,
+          "lastMileTravel": 5,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.3",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    }
+  ],
+  "totalRestaurants": 210
+}

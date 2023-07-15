@@ -1,0 +1,10 @@
+.menu-category-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+  }
+  
+  .category-border {
+    height: 16px;
+    border-bottom: 16px solid #f1f1f6;
+  }
