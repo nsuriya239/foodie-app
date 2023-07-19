@@ -1,18 +1,53 @@
-.carousel-wrapper{
-    display: flex;
-    margin-bottom: 12px;
-    -ms-scroll-snap-type: x mandatory;
-    scroll-snap-type: x mandatory;
-    scroll-padding-left: 25px;
-    overflow-x: auto;
-    overflow-y: hidden;
-    white-space: nowrap;
+.carousel-wrapper {
+  display: flex;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+  scroll-padding-left: 25px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  scrollbar-width: none;
 }
 
-.carousel-card{
-    padding-right: 25px;
+.carousel-card {
+  padding-right: 25px;
+  max-height: 485px;
 }
 
-.carousel-card img{
-    height: 475px;
+.carousel-card img {
+  height: 475px;
+}
+
+.price-and-add-btn {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: -40px;
+  padding: 0px 15px;
+}
+
+.price {
+  color: white;
+}
+
+.carousel-indicators {
+  display: flex;
+  justify-content: center;
+}
+
+.indicator {
+  background-color: #d4d5d9;
+  border-radius: 30%;
+  width: 15px;
+  height: 5px;
+  margin: 0 5px;
+}
+
+.indicator:first-child {
+  background-color: #282c3f;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
 }
