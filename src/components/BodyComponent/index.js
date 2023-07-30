@@ -7,8 +7,8 @@ import { Link } from "react-router-dom";
 
 const generateRestaurantCards = (resList) => {
   return resList?.map((restaurant) => (
-    <Link to={"/restaurant/" + restaurant.data.id} key={restaurant.data.id}>
-      <RestarauntCardComponent resData={restaurant.data} />
+    <Link to={"/restaurant/" + restaurant.info.id} key={restaurant.info.id}>
+      <RestarauntCardComponent resData={restaurant.info} />
     </Link>
   ));
 };
@@ -24,7 +24,7 @@ const BodyComponent = () => {
   }, []);
 
   const filterRestaurantsOnRating = () => {
-    const filteredList = restarauntList.filter((res) => parseFloat(res.data.avgRating) > 4.2);
+    const filteredList = restarauntList.filter((res) => parseFloat(res.info.avgRating) > 4.2);
     setFilteredRestaurantList(filteredList);
   };
 
@@ -48,7 +48,7 @@ const BodyComponent = () => {
             className="search-btn"
             onClick={() => {
               const filteredList = restarauntList.filter((res) =>
-                res.data?.name.toLowerCase().includes(searchText.toLowerCase())
+                res.info?.name.toLowerCase().includes(searchText.toLowerCase())
               );
               setFilteredRestaurantList(filteredList);
             }}

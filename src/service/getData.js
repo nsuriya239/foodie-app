@@ -5,8 +5,8 @@ export const fetchData = async (setRestaurantList, setFilteredRestaurantList) =>
 
   const data = await resp.json();
 
-  setRestaurantList(data?.data?.cards[0]?.data?.data?.cards);
-  setFilteredRestaurantList(data?.data?.cards[0]?.data?.data?.cards);
+  setRestaurantList(data?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+  setFilteredRestaurantList(data?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
 };
 
 export const fetchResInfo = async (resId, setResInfo) => {
