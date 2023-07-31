@@ -7,8 +7,8 @@ import { Link } from "react-router-dom";
 
 const generateRestaurantCards = (resList) => {
   return resList?.map((restaurant) => (
-    <Link to={"/restaurant/" + restaurant.info.id} key={restaurant.info.id}>
-      <RestarauntCardComponent resData={restaurant.info} />
+    <Link to={"/restaurant/" + restaurant?.info?.id} key={restaurant?.info?.id}>
+      <RestarauntCardComponent resData={restaurant?.info} />
     </Link>
   ));
 };

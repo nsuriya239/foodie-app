@@ -2,7 +2,7 @@ import { RESTAURANT_IMG_CDN_BASE_URL } from "../../../utils/constants";
 
 const RestarauntCardComponent = (props) => {
   const { resData } = props;
-  // console.log(resData);
+  console.log(resData);
   return (
     <div className="restaurant-card">
       <div className="restaurant-img-container">
@@ -23,10 +23,10 @@ const RestarauntCardComponent = (props) => {
           <p>⭐️ {resData?.avgRating}</p>
         </div>
         <div className="restaurant-deliveryTime">
-          <p>{resData?.deliveryTime} MINS</p>
+          <p>{resData?.sla?.slaString}</p>
         </div>
         <div className="restaurant-costForTwo">
-          <p>₹{resData?.costForTwo / 100} FOR TWO</p>
+          <p>{resData?.costForTwo}</p>
         </div>
       </div>
     </div>

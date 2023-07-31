@@ -5,8 +5,9 @@ export const fetchData = async (setRestaurantList, setFilteredRestaurantList) =>
 
   const data = await resp.json();
 
-  setRestaurantList(data?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
-  setFilteredRestaurantList(data?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+  const restarauntDetails = getRestaurantDetailsCards(data?.data?.cards);
+  setRestaurantList(restarauntDetails);
+  setFilteredRestaurantList(restarauntDetails);
 };
 
 export const fetchResInfo = async (resId, setResInfo) => {
@@ -19,4 +20,13 @@ export const fetchResInfo = async (resId, setResInfo) => {
   const data = await resp.json();
 
   setResInfo(data?.data);
+};
+
+const getRestaurantDetailsCards = (response) => {
+  const restaurantListCard = response?.filter(
+    (card) =>
+      card?.card?.card["@type"] === "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget" &&
+      card?.card?.card?.id === "restaurant_grid_listing"
+  );
+  return restaurantListCard[0]?.card?.card?.gridElements?.infoWithStyle?.restaurants;
 };
